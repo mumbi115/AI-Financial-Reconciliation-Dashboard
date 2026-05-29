@@ -16,7 +16,8 @@ In corporate finance, manual month-end reconciliations are time-consuming, and t
 
 ## 📊 Dashboard Architecture & Features
 
-![Dashboard Preview](assets/AI_Powered_Reconciliation.png)
+Markdown
+![Dashboard Preview](AI%20Powered%20Reconciliation.png)
 
 The Power BI dashboard acts as the single source of truth for both accounting controllers and FP&A analysts.
 
