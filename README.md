@@ -72,3 +72,13 @@ Through a 24-month backtest of actual vs. budgeted spend, the predictive engine 
 ├── pbix/
 │   └── AI_Powered_Reconciliation.pbix  # Power BI Desktop file
 └── README.md                           # Project documentation
+Markdown
+└── README.md                           # Project documentation
+💼 Core CFO Recommendations Implemented
+Based on the dashboard output and data trends, the following internal controls are advised:
+
+Marketing Spend Gate: Require automated approval workflows for any marketing campaign spend that risks exceeding the monthly forecast baseline by >5%.
+
+Software License Audit: Implement routine SaaS seat audits prior to month-end close to bring the elevated 3-month rolling average ($12,732) back down toward the historical target line (~$12,100).
+
+Weekly Budget-vs-Actual Cadence: Utilize Power BI's scheduled refresh to review mid-month variance alerts by week 2, allowing stakeholders to self-correct before the final ledger close.
